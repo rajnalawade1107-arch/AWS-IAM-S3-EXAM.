@@ -1,1 +1,0 @@
-# AWS-IAM-S3-EXAM.
